@@ -24,3 +24,5 @@ Wow.  It's been a while since I got my hands dirty with web browser screen scrap
 The Terraform code that I used to provision the Splunk browser test is at [main.tf & locals.tf](splunk_observability_cloud/browser_tests/terraform_examples/modules/public_noauth/worldcat_search).
 
 ![Screenshot of the Splunk test step definitions page](.readme-images/firstfewsteps.png)
+
+![Screenshot of the Splunk test results overview page](.readme-images/stats.png)
